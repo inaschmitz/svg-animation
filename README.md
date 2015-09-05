@@ -1,6 +1,6 @@
-SVG HANDWRITING ANIMATION
+SVG Handwriting Animation
 =========================
-Animate your signature with svg
+Animate your signature with SVG
 
 [Demo](http://www.inaschmitz.com/svg/)
 
