@@ -7,6 +7,14 @@ h1 {
 	position: relative;
 	top: 2em;
 }
+p,a {
+	color: gray;
+	text-align: center;
+	text-decoration: none;
+}
+a:hover {
+	color: #2a3745;
+}
 .svg-layer {
 	margin: 0 auto;
 	display: block;
