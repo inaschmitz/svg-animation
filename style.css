@@ -1,0 +1,26 @@
+body { 
+	margin:0; 
+	background-color: #F7F7F9;
+	font-family: Helvetica, sans-serif;
+}
+h1 {
+	position: relative;
+	top: 2em;
+}
+.svg-layer {
+	margin: 0 auto;
+	display: block;
+	width: 600px;
+}
+button {
+	display: none;
+	margin: 0 auto;
+}
+path {
+	fill: none;
+	stroke: #2a3745;
+	stroke-width: 2;
+	stroke-linecap: round;
+	stroke-linejoin: round;
+	stroke-miterlimit: 10;
+}
